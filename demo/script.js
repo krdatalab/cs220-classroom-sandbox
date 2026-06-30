@@ -8,7 +8,7 @@ const pet = {
 };
 
 // 2. Find the container on the page
-const petContainer = document.querySelector("#pet-container");
+const petContainer = document.getElementById("pet-container");
 
 // 3. Create a function that builds the pet card
 function createPetCard(pet) {
