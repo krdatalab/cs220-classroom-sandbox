@@ -1,7 +1,7 @@
 // 1. Pet data
 const pet = {
     name: "Mochi",
-    species: "Cat",
+    species: "cat",
     age: 3,
     adopted: false,
     image: "images/mochi.png"
